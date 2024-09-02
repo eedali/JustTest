@@ -1,0 +1,28 @@
+{
+  "name": "MyToken #1",
+  "description": "This is a very cool NFT from my awesome collection.",
+  "image": "https://i.ibb.co/qjD3b0D/Comfy-UI-temp-ozpze-00008.png",
+  "external_url": "https://i.ibb.co/qjD3b0D/Comfy-UI-temp-ozpze-00008.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Sunglasses"
+    }
+  ]
+}
